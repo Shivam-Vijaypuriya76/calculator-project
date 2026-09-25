@@ -6,5 +6,11 @@ def subtract(a, b):
     return a - b
 
 
-def multiply(a,b): jsh
+def multiply(a,b):
     return a * b
+
+
+def divide (a,b):
+    if b == 0 :
+        return cannot be zero
+        return a/b
